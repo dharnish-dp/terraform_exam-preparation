@@ -9,6 +9,18 @@ Written for someone with **basic terminal knowledge and very basic AWS**. Every 
 
 ---
 
+## Practice exams (browser based)
+
+Three timed mock papers with a countdown, flagging, auto-submit, a PASS/FAIL result, per-domain score and explanations. Open `index.html`, or host the repo with GitHub Pages (Settings > Pages > Deploy from branch `main`, folder `/ (root)`).
+
+| Paper | File | Focus |
+|---|---|---|
+| 1 | [paper-1.html](paper-1.html) | Foundations |
+| 2 | [paper-2.html](paper-2.html) | Scenarios and configuration |
+| 3 | [paper-3.html](paper-3.html) | Exam-day simulation |
+
+---
+
 ## How to use this material
 
 1. Do **one lesson per day**, in order. Each builds on the previous one.
