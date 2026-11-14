@@ -7,6 +7,14 @@ Written for someone with **basic terminal knowledge and very basic AWS**. Every 
 - **Official page:** https://developer.hashicorp.com/certifications/terraform-associate
 - **Always re-check** the official exam objectives before you book. HashiCorp updates them.
 
+## Where this material comes from
+
+The 14 chapters (`00` to `13`) were rebuilt in detail from my own session notes in [`lesson/`](lesson/) (`lesson1.md` to `lesson10.md`, taken while following the Zeal Vora / KPLabs Terraform Associate course). Each chapter header lists the lesson and lectures it comes from.
+
+- Where the course notes are outdated for Terraform 1.12, the chapter keeps what the course says and adds a note marked **Up to date (TF 1.12)**.
+- Material that is *not* in the course notes is marked **Extra context**. Treat it as lower confidence and check the official docs.
+- Sample outputs in the labs were written from the lessons, not captured from real runs, so your output may differ slightly.
+
 ---
 
 ## Practice exams (browser based)
